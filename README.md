@@ -1,5 +1,11 @@
 # JWT example
 
+## Install
+
+```
+$ npm install
+```
+
 ## Generate key
 
 ```bash
